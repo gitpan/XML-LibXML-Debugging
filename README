@@ -22,7 +22,7 @@ DESCRIPTION
     Might be represented as:
 
       <{http://example.com/1}foo
-           {http://www.w3.org/2000/xmlns/}XMLNS="http://example.com/1"
+           {http://www.w3.org/2000/xmlns/}xmlns="http://example.com/1"
            {http://www.w3.org/2000/xmlns/}bar="http://example.com/2"
            {http://example.com/2}baz="quux" />
 
@@ -33,7 +33,7 @@ BUGS
     Please report any bugs to <http://rt.cpan.org/>.
 
 SEE ALSO
-    XML::LibXML.
+    XML::LibXML, XML::LibXML::Debugging.
 
 AUTHOR
     Toby Inkster <tobyink@cpan.org>.
@@ -43,4 +43,9 @@ COPYRIGHT AND LICENSE
 
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
+
+DISCLAIMER OF WARRANTIES
+    THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
+    WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+    MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 

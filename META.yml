@@ -4,28 +4,33 @@ author:
   - 'Toby Inkster <tobyink@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
-  Module::Signature: 0.66
   Test::More: 0.61
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 1.00'
+generated_by: 'Module::Install version 1.02'
+keywords:
+  - Debugging
+  - XML
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
+module_name: XML::LibXML::Debugging
 name: XML-LibXML-Debugging
 no_index:
   directory:
+    - examples
     - inc
     - t
 requires:
-  HTML::Entities: 3.27
+  HTML::HTML5::Entities: 0
   XML::LibXML: 0
+  parent: 0
   perl: 5.8.0
 resources:
   bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=XML-LibXML-Debugging
-  homepage: http://search.cpan.org/dist/XML-LibXML-Debugging/
+  homepage: https://metacpan.org/release/XML-LibXML-Debugging
   license: http://dev.perl.org/licenses/
-  repository: http://goddamn.co.uk/viewvc/perlmods/XML-LibXML-Debugging/
-version: 0.100
+  repository: https://bitbucket.org/tobyink/p5-xml-libxml-debugging
+version: 0.101
