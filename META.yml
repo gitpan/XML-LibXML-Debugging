@@ -33,4 +33,4 @@ resources:
   homepage: https://metacpan.org/release/XML-LibXML-Debugging
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-xml-libxml-debugging
-version: 0.101
+version: 0.102

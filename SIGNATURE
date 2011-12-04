@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 0bf7c1d6dd6c8331f807d014b18f08835327632e Changes
+SHA1 175a9fe344c5dd3b1a01cee92b0e94bacf0fa919 Changes
 SHA1 f3296a09eb07898f3ba6dd0ece615dafc1b57e16 LICENSE
-SHA1 4ab356d260b0cd9875baed656cffa4181f9a2ca2 MANIFEST
-SHA1 9294cf3d16b76286389a85dbd52ff285bb543085 META.yml
+SHA1 65663651d10c3d9bc7fbea33eaac426953aa2b1d MANIFEST
+SHA1 51d60dc78330dc07aa0a2238e1367eafd13a5fa2 META.yml
 SHA1 7150e5e086ef493e1e527a1eeec44a8344b80db6 Makefile.PL
 SHA1 ae6ae966a58c57f6a7955c89baa2799ce9e08757 README
 SHA1 ac81ca1ef1f113fd96d4ccd64c7ce74779abce27 examples/example1.pl
@@ -36,20 +36,19 @@ SHA1 b86d0385e10881db680d28bde94f275e49e34a27 inc/Module/Install/TrustMetaYml.pm
 SHA1 1326052d1df1065debee74f9d8583a734b9b3d00 inc/Module/Install/Win32.pm
 SHA1 bb607f3715c40fc3bc1c46496587cdb215bc4fa2 inc/Module/Install/WriteAll.pm
 SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
-SHA1 ef4c751e6da2367fbf9d0ef365c27d50d6ed3bf9 inc/Module/Package/Dist/RDF.pm
+SHA1 6b807287940754cc31a3db59f2b22e363d5525be inc/Module/Package/Dist/RDF.pm
 SHA1 775bd24f2fdbb6dce51a8b5b0cdb01fccfce83c4 inc/Scalar/Util.pm
 SHA1 b1b664983568bf822c327599eb88e223483ae96a inc/Scalar/Util/PP.pm
 SHA1 eef6bff62046bff2ce08ba132d0b58fba30f40b4 inc/YAML/Tiny.pm
-SHA1 b526160f58a03562738f361878a6e65e3d79796a inc/parent.pm
-SHA1 32f1b1cd509422670841800b76b85b4adfdd9c48 lib/XML/LibXML/Debugging.pm
-SHA1 570beaa3660639ccc31355f28eeb5417ac44310b meta/changes.ttl
+SHA1 2293031cd3005abb0f49a1e98aef4176138af3ab lib/XML/LibXML/Debugging.pm
+SHA1 ad62d4504a02dea2dd73d87fcee9936b02972238 meta/changes.ttl
 SHA1 0263bcd2af5858bee443a3530431b0038c2cfc71 meta/doap.ttl
 SHA1 48831f32a0a887820968d7c14506819a275bf3da meta/makefile.ttl
 SHA1 7ffb682ed8682a5916f27132664f5c43af5a2a0a t/01basics.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAk7RG7sACgkQzr+BKGoqfTlqLACgpmmYsQPPchgaMrDhCDv/NnZq
-EHgAoK1R7I7tX/7si1lqmmODk0hPSc8C
-=ypzB
+iEYEARECAAYFAk7ausIACgkQzr+BKGoqfTnUvACffFBOCl2KU9REFqQRkAz9l2GI
+XjMAoKVA3n1vekNmOIX55FC70XhlD8HK
+=Gbo8
 -----END PGP SIGNATURE-----
